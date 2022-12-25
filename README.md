@@ -18,7 +18,7 @@ well-performing algorithms on your data.
 
 
 
-lesson plan:
+# lesson plan:
  Lesson 1: Python Ecosystem for Machine Learning.
  Lesson 2: Python and SciPy Crash Course.
  Lesson 3: Load Datasets from CSV.
@@ -35,6 +35,25 @@ lesson plan:
  Lesson 14: Ensemble Methods. (Improve Results)
  Lesson 15: Algorithm Parameter Tuning. (Improve Results)
  Lesson 16: Model Finalization. (Present Results)
+
+
+
+# outcomes from reading this book
+ How to work through a small to medium sized dataset end-to-end.
+ How to deliver a model that can make accurate predictions on new unseen data.
+ How to complete all subtasks of a predictive modeling problem with Python.
+ How to learn new and different techniques in Python and SciPy.
+ How to get help with Python machine learning.
+
+# scipy
+SciPy is an ecosystem of Python libraries for mathematics, science and engineering. It is an
+add-on to Python that you will need for machine learning. The SciPy ecosystem is comprised of
+the following core modules relevant to machine learning:
+ NumPy: A foundation for SciPy that allows you to efficiently work with data in arrays.
+        (you can see the required basics of numpy in my repository  !!!linear Algebra!!!)
+ Matplotlib: Allows you to create 2D charts and plots from data.
+ Pandas: Tools and data structures to organize and analyze your data.
+
 
 
 
