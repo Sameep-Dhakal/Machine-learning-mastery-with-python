@@ -69,3 +69,16 @@ https://archive.ics.uci.edu/ml/index.php
 
 
 
+# Prepare data for machine learning 
+1. Rescale data.
+2. Standardize data.
+3. Normalize data.
+4. Binarize data.
+
+
+# chapter 8 - Feature selection for machine Learning
+1. Univariate Selection.
+2. Recursive Feature Elimination.
+3. Principle Component Analysis.
+4. Feature Importance.
+
