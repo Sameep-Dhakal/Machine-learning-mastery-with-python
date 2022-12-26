@@ -19,40 +19,42 @@ well-performing algorithms on your data.
 
 
 # lesson plan:
- Lesson 1: Python Ecosystem for Machine Learning.
- Lesson 2: Python and SciPy Crash Course.
- Lesson 3: Load Datasets from CSV.
- Lesson 4: Understand Data With Descriptive Statistics. (Analyze Data)
- Lesson 5: Understand Data With Visualization. (Analyze Data)
- Lesson 6: Pre-Process Data. (Prepare Data)
- Lesson 7: Feature Selection. (Prepare Data)
- Lesson 8: Resampling Methods. (Evaluate Algorithms)
- Lesson 9: Algorithm Evaluation Metrics. (Evaluate Algorithms)
- Lesson 10: Spot-Check Classification Algorithms. (Evaluate Algorithms)
- Lesson 11: Spot-Check Regression Algorithms. (Evaluate Algorithms)
- Lesson 12: Model Selection. (Evaluate Algorithms)
- Lesson 13: Pipelines. (Evaluate Algorithms)
- Lesson 14: Ensemble Methods. (Improve Results)
- Lesson 15: Algorithm Parameter Tuning. (Improve Results)
- Lesson 16: Model Finalization. (Present Results)
+1. Lesson 1: Python Ecosystem for Machine Learning.
+2. Lesson 2: Python and SciPy Crash Course.
+3. Lesson 3: Load Datasets from CSV.
+4. Lesson 4: Understand Data With Descriptive Statistics. (Analyze Data)
+5. Lesson 5: Understand Data With Visualization. (Analyze Data)
+6. Lesson 6: Pre-Process Data. (Prepare Data)
+7. Lesson 7: Feature Selection. (Prepare Data)
+8. Lesson 8: Resampling Methods. (Evaluate Algorithms)
+9. Lesson 9: Algorithm Evaluation Metrics. (Evaluate Algorithms)
+10. Lesson 10: Spot-Check Classification Algorithms. (Evaluate Algorithms)
+11. Lesson 11: Spot-Check Regression Algorithms. (Evaluate Algorithms)
+12. Lesson 12: Model Selection. (Evaluate Algorithms)
+13. Lesson 13: Pipelines. (Evaluate Algorithms)
+14. Lesson 14: Ensemble Methods. (Improve Results)
+15. Lesson 15: Algorithm Parameter Tuning. (Improve Results)
+16. Lesson 16: Model Finalization. (Present Results)
 
 
 
 # outcomes from reading this book
- How to work through a small to medium sized dataset end-to-end.
- How to deliver a model that can make accurate predictions on new unseen data.
- How to complete all subtasks of a predictive modeling problem with Python.
- How to learn new and different techniques in Python and SciPy.
- How to get help with Python machine learning.
+1. How to work through a small to medium sized dataset end-to-end.
+2. How to deliver a model that can make accurate predictions on new unseen data.
+3. How to complete all subtasks of a predictive modeling problem with Python.
+4. How to learn new and different techniques in Python and SciPy.
+5. How to get help with Python machine learning.
 
 # scipy
 SciPy is an ecosystem of Python libraries for mathematics, science and engineering. It is an
 add-on to Python that you will need for machine learning. The SciPy ecosystem is comprised of
 the following core modules relevant to machine learning:
- NumPy: A foundation for SciPy that allows you to efficiently work with data in arrays.
+1. NumPy: A foundation for SciPy that allows you to efficiently work with data in arrays.
         (you can see the required basics of numpy in my repository  !!!linear Algebra!!!)
- Matplotlib: Allows you to create 2D charts and plots from data.
- Pandas: Tools and data structures to organize and analyze your data.
+2. Matplotlib: Allows you to create 2D charts and plots from data.
+3. Pandas: Tools and data structures to organize and analyze your data.
+
+
 
 
 
