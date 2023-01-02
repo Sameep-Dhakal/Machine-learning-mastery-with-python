@@ -56,16 +56,17 @@ the following core modules relevant to machine learning:
 
 
 
-
 # Into  New file Load_ML_data.ipynb
 # How to load ML Data
 1. Load CSV Files with the Python Standard Library.
 2. Load CSV Files with NumPy.
 3. Load CSV Files with Pandas.
 
-#loading dataset IRIS flower
+# loading dataset IRIS flower
 It is avialable for free on UCI machine learning repository.
 https://archive.ics.uci.edu/ml/index.php
+
+else we can find any github repositories that contain such datasets.
 
 
 
@@ -81,4 +82,7 @@ https://archive.ics.uci.edu/ml/index.php
 2. Recursive Feature Elimination.
 3. Principle Component Analysis.
 4. Feature Importance.
+
+
+
 
